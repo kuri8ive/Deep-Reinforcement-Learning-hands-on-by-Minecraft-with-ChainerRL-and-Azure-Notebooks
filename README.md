@@ -35,7 +35,7 @@ MarLo has some environments as follows. For example, you can make an AI walking 
 
 ## Hands-on content
 
-This hands-on is based on [marlo-handson](https://qiita.com/keisuke-umezawa/items/fcf5d00474e244217a5e).
+This hands-on is based on [marlo-handson](https://github.com/kuri8ive/Deep-Reinforcement-Learning-Hands-on-by-Minecraft-with-ChainerRL).
 
 ## Requirements
 
