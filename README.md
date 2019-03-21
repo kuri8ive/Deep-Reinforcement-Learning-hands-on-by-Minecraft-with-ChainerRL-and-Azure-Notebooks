@@ -369,4 +369,4 @@ As confirmation is given, please enter yes and delete it.
 
 ------
 
-This tutorial is a English version of [original hands-on in japanese](https://qiita.com/ikeyasu/items/d6e587126a54ce559604) (Allowed by the author).
+This tutorial is a English version of [original hands-on in japanese](https://qiita.com/ikeyasu/items/d6e587126a54ce559604) (Permitted by the author).
